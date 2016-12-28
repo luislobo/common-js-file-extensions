@@ -8,7 +8,7 @@
  * Copyright 2016 (c) Luis Lobo Borobia <luislobo@gmail.com>
  *
  * Based on the input from Mike McNeil
- * 
+ *
  * License MIT
  */
 
@@ -30,6 +30,7 @@ var codeExtensions = [
   'co', // http://satyr.github.io/coco/
   'eg' // http://www.earl-grey.io/
 ];
+
 var configExtensions = [
   'json', // built-in
   'json.ls', // http://livescript.net/
