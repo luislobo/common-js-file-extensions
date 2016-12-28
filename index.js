@@ -32,10 +32,10 @@ var codeExtensions = [
 ];
 
 var configExtensions = [
+  'js', // built-in
   'json', // built-in
   'json.ls', // http://livescript.net/
-  'json5', // http://json5.org/
-  'ini' // Windows ini files
+  'json5' // http://json5.org/
 ];
 
 module.exports = {
