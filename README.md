@@ -3,7 +3,6 @@ This module exports three attributes:
 
 - `code`: contains an array of JavaScript extensions that refers to code files
 - `config`: contains an array of JavaScript extensions that refers to config/object files
-- `all`: contains both arrays
 
 ## List of supported extensions and sources
 
@@ -21,6 +20,7 @@ This module exports three attributes:
 
 #### [CoffeeScript](http://coffeescript.org/)
 
+- cs
 - coffee
 - litcoffee
 - coffee.md
@@ -47,10 +47,6 @@ This module exports three attributes:
 
 - eg
 
-#### [C#]()
-
-- cs
-
 ### Config/object file extensions
 
 #### JavaScript Object Notation (JSON)
@@ -64,10 +60,6 @@ This module exports three attributes:
 #### [JSON 5](http://json5.org)
 
 - json5
-
-### [Ini](https://en.wikipedia.org/wiki/INI_file#Format)
-
-- ini
 
 ---
 License MIT - Copyright (c) 2016 Luis Lobo Borobia
