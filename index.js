@@ -32,7 +32,6 @@ var codeExtensions = [
 ];
 
 var configExtensions = [
-  'js', // built-in
   'json', // built-in
   'json.ls', // http://livescript.net/
   'json5' // http://json5.org/
@@ -40,6 +39,5 @@ var configExtensions = [
 
 module.exports = {
   code: codeExtensions,
-  config: configExtensions,
-  all: codeExtensions.concat(configExtensions)
+  config: configExtensions
 };
