@@ -14,6 +14,7 @@
 
 var codeExtensions = [
   'js', // built-in
+  'mjs', // https://nodejs.org/api/esm.html#esm_enabling
   'iced', // http://maxtaco.github.io/coffee-script/
   'liticed', // http://maxtaco.github.io/coffee-script/ (literate iced)
   'iced.md', // http://maxtaco.github.io/coffee-script/ (literate iced)
@@ -21,6 +22,7 @@ var codeExtensions = [
   'litcoffee', // http://coffeescript.org/ (literate coffee)
   'coffee.md', // http://coffeescript.org/ (literate coffee)
   'ts', // https://www.typescriptlang.org/
+  'tsx', // https://www.typescriptlang.org/docs/handbook/jsx.html
   'cs',  // http://bridge.net/ ??
   'ls', // http://livescript.net/
   'es6', // https://babeljs.io
