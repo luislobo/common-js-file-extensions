@@ -11,6 +11,7 @@ This module exports three attributes:
 #### JavaScript
 
 - js
+- [mjs](https://nodejs.org/api/esm.html#esm_ecmascript_modules)
 
 #### [IcedCoffeeScript](http://maxtaco.github.io/coffee-script/)
 
@@ -28,6 +29,7 @@ This module exports three attributes:
 #### [TypeScript](https://www.typescriptlang.org/)
 
 - ts
+- [tsx](https://www.typescriptlang.org/docs/handbook/jsx.html)
 
 #### [LiveScript](http://livescript.net/)
 
