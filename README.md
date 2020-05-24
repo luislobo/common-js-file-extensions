@@ -11,6 +11,7 @@ This module exports three attributes:
 #### JavaScript
 
 - js
+- [cjs](https://nodejs.org/api/esm.html#esm_ecmascript_modules)
 - [mjs](https://nodejs.org/api/esm.html#esm_ecmascript_modules)
 
 #### [IcedCoffeeScript](http://maxtaco.github.io/coffee-script/)

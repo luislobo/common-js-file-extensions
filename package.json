@@ -1,6 +1,6 @@
 {
   "name": "common-js-file-extensions",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Common JavaScript File Extensions",
   "main": "index.js",
   "scripts": {
