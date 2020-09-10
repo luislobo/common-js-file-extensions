@@ -14,6 +14,7 @@
 
 var codeExtensions = [
   'js', // built-in
+  'cjs', // https://nodejs.org/api/esm.html#esm_enabling
   'mjs', // https://nodejs.org/api/esm.html#esm_enabling
   'iced', // http://maxtaco.github.io/coffee-script/
   'liticed', // http://maxtaco.github.io/coffee-script/ (literate iced)
